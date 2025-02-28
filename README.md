@@ -76,6 +76,5 @@ El **tallarín saltado chifa** es una deliciosa fusión de la gastronomía china
 
 ---
 
-## 📢 ¡Comparte tu experiencia!
-Si te gustó esta receta, cuéntanos en los comentarios y comparte una foto de tu **Tallarín Saltado Chifa** casero. ¡Buen provecho! 🍜🥢
+## ¡Buen provecho! 🍜🥢
 
