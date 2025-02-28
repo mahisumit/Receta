@@ -1,6 +1,6 @@
 # 🍜 Receta de Tallarín Saltado Chifa
 
-![Tallarín saltado chifa](https://cdn0.recetasgratis.net/es/posts/8/0/7/tallarin_saltado_chifa_77708_600.webp)
+![Tallarín saltado chifa](./tallarin_saltado_chifa.jpg)
 
 ---
 
